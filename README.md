@@ -1,2 +1,3 @@
-# wwwroot
- 
+- wwwroot
+- Installiere deinen eigenen WebServer und nutze die .php als localhost
+- Erstelle neue Sicherheits Passwörter für websites, Mail Adressen etc.

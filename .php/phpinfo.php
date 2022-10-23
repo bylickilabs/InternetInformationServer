@@ -1,6 +1,6 @@
-/---------------------------------------\<br />
+/-----------------------------------------\<br />
 | ©Thorsten Bylicki | 23.10.2022 |<br />
-\---------------------------------------/<br />
+\-----------------------------------------/<br />
 <br /> 
 Dieser Generator erstellt f&uuml;r Sie kompatible Schlüssel mit bis zu 95 Zeichen.<br />
 Dafür werden verwendet: Buchstaben von a-z, A-Z, sowie Zahlen und erlaubte Sonderzeichen.<br />
