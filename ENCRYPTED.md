@@ -1,5 +1,5 @@
 # UPDATE .php
 ------
-phpinfo.php wurde verschlüsselt, sodass der Code nihct länger ersichtlich ist!
+phpinfo.php wurde verschlüsselt, sodass der Code nicht länger ersichtlich ist!
 ------------
 ------------
