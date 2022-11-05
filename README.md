@@ -84,7 +84,7 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 
 ### Das Update beinhaltet bereits einige Neuerungen!
 
-Jetzt könnt ihr den Browser öffnen, und dort gebt ihr folgendes ein: http://localhost/phpinfo.php
+Jetzt könnt ihr den Browser öffnen, und dort gebt ihr folgendes ein: localhost/phpinfo.php
 oder benutzt den folgednen Button zum öffnen der .php [Öffnen](http://localhost/phpinfo.php)
 
 Die .php wurde im Vorfeld verschlüsselt, und kann nachträglich nicht
