@@ -70,12 +70,25 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 - Kein Passwort ähnelt dem anderen!
 
 ### Durch den aktivierten WebServer befindet sich nun auf eurer Festplatte: C:/ ein "inetpub Verzeichniss" 
-- Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Entwicklerschmiede [DOWNLOAD]([https://go.microsoft.com/fwlink/?LinkId=287166](https://github.com/bylickilabs/InternetInformationServer/archive/refs/heads/main.zip)) herunter.
+- Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Entwicklerschmiede [DOWNLOAD]([https://go.microsoft.com/fwlink/?LinkId=287166](https://github.com/bylickilabs/InternetInformationServer/archive/refs/heads/main.zip) herunter.
 
 ### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
-- Verschiebt nun bitte die Dateien aus dem Ordner .php nach... C:/inetpub/wwwroot.
-
-|Das Update 1.1 bitte zunächst Ignorieren, und noch nicht verschieben|
+- Verschiebt nun bitte die Dateien aus dem Ordner .php nach... 
+|C:/inetpub/wwwroot|
 |---|
-|Ggf. müssen 2 Vordefinierte Dateien überschrieben und ersetzt werden.|
-|FERTIG...|
+
+- In dem Archiv befindet sich bereits ein Update verschiebt nun bitte die .php
+- nach unserem |wwwroot.|
+|---|
+
+### Das Update beinhaltet bereits einige Neuerungen!
+
+Jetzt könnt ihr den Browser öffnen, und dort gebt ihr folgendes ein: http://localhost/phpinfo.php
+oder benutzt den folgednen Button zum öffnen der .php [Öffnen]([http://localhost/phpinfo.php](http://localhost/phpinfo.php)
+
+Die .php wurde im Vorfeld verschlüsselt, und kann nachträglich nicht
+durch dritte verändert werden.
+Diese Option habe ich mir als Entwickler vorbehalten.
+
+
+Ps. Schaut gelegentlich mal auf dieser Seite hier vorbei. Nur für den Fall, das neue Updates erschienen sind. Falls dies bereits geschehen ist, findet ihr den neuen Download HIER.
