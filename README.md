@@ -55,7 +55,8 @@ Also geben wir in dem Suchfeld PHP ein. Wir brauchen für unseren WebServer folg
 
 |Es empfiehlt sich die größte mögliche neue Version zu benutzen.|
 |---|
-Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag in der Übersicht wieder. Das ist völlig richtig!
+Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag in der Übersicht wieder. 
+Das ist völlig richtig!
 
 |Nun können wir alle Installieren...|
 |---|
