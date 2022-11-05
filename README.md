@@ -56,3 +56,20 @@ Nun können wir alle Installieren...
 
 Dann fragt das Programm, welches Kennwort Sie für die MySql Datenbank verwenden wollen. 
 Notieren Sie sich bitte den Benutzernamen –> root und das Passwort, das Sie zweimal eingeben müssen.
+---
+---
+### Guten Tag IIS
+- Dieser ist zwar nun Betriebsbereit, allerdings fehlen noch ein paar Kleinigkeiten!
+
+- Für diesen Zweck habe ich bereits eine .php erstellt, die es ermöglicht sichere Passwörter bis zu 95 Zeichen lang, zu generieren. 
+- (Wie lang das Passwort sein soll, entscheidet ihr). 
+- Kein Passwort ähnelt dem anderen!
+
+### Durch den aktivierten WebServer befindet sich nun auf eurer Festplatte: C:/ ein "inetpub Verzeichniss" 
+- Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Entwicklerschmiede [DOWNLOAD]([https://go.microsoft.com/fwlink/?LinkId=287166](https://github.com/bylickilabs/InternetInformationServer/archive/refs/heads/main.zip)) herunter.
+
+### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
+- Verschiebt nun bitte die Dateien aus dem Ordner .php nach... C:/inetpub/wwwroot.
+
+|Das Update 1.1 bitte zunächst Ignorieren, und noch nicht verschieben. Ggf. müssen 2 Vordefinierte Dateien überschrieben und ersetzt werden. Fertig!|
+|---|
