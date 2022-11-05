@@ -6,8 +6,8 @@
 
 - Seit der Einführung von Windows 7 verfügt jedes Betriebssystem über einen local WebServ (Lokaler Webserver). 
 
-Nach jeder Installation eines Betriebssystemes ist dieser Standardgemäß Deaktiviert. 
-Allerdings wartet er nur darauf, aktiviert zu werden.
+- Nach jeder Installation eines Betriebssystemes ist dieser Standardgemäß Deaktiviert. 
+- Allerdings wartet er nur darauf, aktiviert zu werden.
 
 Ihr möchtet euren eigenen WebServer betreiben?
 | LOKAL !| Erstellt ruck zuck neue Passwörter | ©Bylickilabs |
