@@ -51,8 +51,9 @@ Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein.
 - Bei der neuesten Version klicken wir auf –> Hinzufügen "Mysql Windows ......."
 
 ### Als nächstes benötigen wir noch PHP. 
-- Also geben wir in dem Suchfeld PHP ein. Wir brauchen für unseren WebServer folgende Datei: "PHP 7.2 For IIS Express 
-|(Es empfiehlt sich die größte mögliche neue Version zu benutzen).|
+Also geben wir in dem Suchfeld PHP ein. Wir brauchen für unseren WebServer folgende Datei: "PHP 7.2 For IIS Express 
+
+|Es empfiehlt sich die größte mögliche neue Version zu benutzen.|
 |---|
 Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag in der Übersicht wieder. Das ist völlig richtig!
 
