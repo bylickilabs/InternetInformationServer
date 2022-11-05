@@ -18,9 +18,8 @@ Ihr möchtet euren eigenen WebServer betreiben?
 - Erstelle neue Sicherheits Passwörter für websites, Mail Adressen etc.
 ---
 ### Schritt 1:
-- Klickt dafür bitte zunächst auf das Windows Logo in eurer Taskleiste, und gebt dort in das Suchfeld (OptionalFeatures) ein. 
-"ohne Klammern", und bestätigt dieses mit Enter.
----
+- Klickt dafür bitte zunächst auf das Windows Logo in eurer Taskleiste, und gebt dort in das Suchfeld |OptionalFeatures| ein. 
+|---|
 
 ### Schritt 2:
 - Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter (Internetinformationsdienste),
