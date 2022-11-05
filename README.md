@@ -97,7 +97,7 @@ Verschiebt nun bitte die Dateien aus dem Ordner .php nach...
 
 In dem Archiv befindet sich bereits ein Update, verschiebt nun bitte die .php
 nach unserem 
-| wwwroot. |
+| wwwroot |
 |---|
 
 ### Das Update beinhaltet bereits einige Neuerungen!
