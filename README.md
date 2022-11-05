@@ -9,7 +9,7 @@
 - Nach jeder Installation eines Betriebssystemes ist dieser Standardgemäß Deaktiviert. 
 - Allerdings wartet er nur darauf, aktiviert zu werden.
 ### Ihr möchtet euren eigenen WebServer betreiben?
-| LOKAL !| Ruck zuck neue passwörter erstellen? | ©Bylickilabs |
+| LOKAL !| Ruck zuck neue Passwörter erstellen? | ©Bylickilabs |
 |---|---|---|
 ---
 
