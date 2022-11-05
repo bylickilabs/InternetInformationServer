@@ -73,6 +73,7 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 - Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Entwicklerschmiede [DOWNLOAD]([https://go.microsoft.com/fwlink/?LinkId=287166](https://github.com/bylickilabs/InternetInformationServer/archive/refs/heads/main.zip) herunter.
 
 ### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
+
 - Verschiebt nun bitte die Dateien aus dem Ordner .php nach... 
 |C:/inetpub/wwwroot|
 |---|
@@ -84,7 +85,7 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 ### Das Update beinhaltet bereits einige Neuerungen!
 
 Jetzt könnt ihr den Browser öffnen, und dort gebt ihr folgendes ein: http://localhost/phpinfo.php
-oder benutzt den folgednen Button zum öffnen der .php [Öffnen]([http://localhost/phpinfo.php](http://localhost/phpinfo.php)
+oder benutzt den folgednen Button zum öffnen der .php [Öffnen](http://localhost/phpinfo.php)
 
 Die .php wurde im Vorfeld verschlüsselt, und kann nachträglich nicht
 durch dritte verändert werden.
