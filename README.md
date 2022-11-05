@@ -70,7 +70,8 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 - Kein Passwort ähnelt dem anderen!
 
 ### Durch den aktivierten WebServer befindet sich nun auf eurer Festplatte: C:/ ein "inetpub Verzeichniss" 
-- Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Entwicklerschmiede [DOWNLOAD]([https://go.microsoft.com/fwlink/?LinkId=287166](https://github.com/bylickilabs/InternetInformationServer/archive/refs/heads/main.zip) herunter.
+Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Entwicklerschmiede 
+[DOWNLOAD]([https://go.microsoft.com/fwlink/?LinkId=287166](https://github.com/bylickilabs/InternetInformationServer/archive/refs/heads/main.zip) herunter.
 
 ### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
 
