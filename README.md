@@ -100,5 +100,5 @@ Die .php wurde im Vorfeld verschlüsselt, und kann nachträglich nicht
 durch dritte verändert werden.
 Diese Option habe ich mir als Entwickler vorbehalten.
 
-
-Ps. Schaut gelegentlich mal auf dieser Seite hier vorbei. Nur für den Fall, das neue Updates erschienen sind. Falls dies bereits geschehen ist, findet ihr den neuen Download HIER.
+Ps. Schaut gelegentlich mal auf dieser Seite hier vorbei. Nur für den Fall, das neue Updates erschienen sind. 
+- Falls dies bereits geschehen ist, findet ihr den neuen Download HIER.
