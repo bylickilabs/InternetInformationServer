@@ -10,8 +10,8 @@ Nach jeder Installation eines Betriebssystemes ist dieser Standardgemäß Deakti
 Allerdings wartet er nur darauf, aktiviert zu werden.
 
 Ihr möchtet euren eigenen WebServer betreiben?
-|LOKAL|Erstelle neue Sicherheits Passwörter für websites, Mail Adressen etc|
-|---|---|
+| LOKAL !| Erstellt ruck zuck neue Passwörter | ©Bylickilabs |
+|---|---|---|
 
 Erstelle neue Sicherheits Passwörter für websites, Mail Adressen etc. |
 |---|
