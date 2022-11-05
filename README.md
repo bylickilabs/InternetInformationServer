@@ -78,5 +78,5 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 |Das Update 1.1 bitte zunächst Ignorieren, und noch nicht verschieben|
 |---|
 |Ggf. müssen 2 Vordefinierte Dateien überschrieben und ersetzt werden.|
-|---|
+
 FERTIG...
