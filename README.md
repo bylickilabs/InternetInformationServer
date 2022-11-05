@@ -82,8 +82,9 @@ Verschiebt nun bitte die Dateien aus dem Ordner .php nach...
 |C:/inetpub/wwwroot|
 |---|
 
-In dem Archiv befindet sich bereits ein Update verschiebt nun bitte die .php
-nach unserem |wwwroot.|
+In dem Archiv befindet sich bereits ein Update, verschiebt nun bitte die .php
+nach unserem 
+|wwwroot.|
 |---|
 
 ### Das Update beinhaltet bereits einige Neuerungen!
