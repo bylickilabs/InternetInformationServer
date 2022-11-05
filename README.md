@@ -33,8 +33,7 @@ Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein.
 - Jetzt Installieren wir noch die MySql – Datenbank, und PHP auf dem Rechner.
  
 - Dazu laden wir den Windows Platform Installer von Microsoft herunter.
-Diesen bekommt ihr Hier |[DOWNLOAD](https://go.microsoft.com/fwlink/?LinkId=287166)|
-|---|
+Diesen bekommt ihr Hier [DOWNLOAD](https://go.microsoft.com/fwlink/?LinkId=287166)
 
 ### Wenn der Platform Installer heruntergeladen wurde, installiert ihn bitte. 
 
