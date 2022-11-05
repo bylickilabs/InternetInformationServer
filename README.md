@@ -52,10 +52,11 @@ Also geben wir in dem Suchfeld PHP ein. Wir brauchen für unseren WebServer folg
 (Es empfiehlt sich die größte mögliche neue Version zu benutzen).
 Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag in der Übersicht wieder. Das ist völlig richtig!
 
-Nun können wir alle Installieren...
-
-Dann fragt das Programm, welches Kennwort Sie für die MySql Datenbank verwenden wollen. 
-Notieren Sie sich bitte den Benutzernamen –> root und das Passwort, das Sie zweimal eingeben müssen.
+|Nun können wir alle Installieren...|
+|---|
+---
+- Dann fragt das Programm, welches Kennwort Sie für die MySql Datenbank verwenden wollen. 
+- Notieren Sie sich bitte den Benutzernamen –> root und das Passwort, das Sie zweimal eingeben müssen.
 ---
 ---
 ### Guten Tag IIS
