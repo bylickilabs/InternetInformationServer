@@ -39,17 +39,18 @@ Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein.
 ### Wenn der Platform Installer heruntergeladen wurde, installiert ihn bitte. 
 
 - Platformer aus den Programmen starten!
-- Wenn das erledigt ist, geht auf das Windows Logo und startet den Platformer.
-"(Microsoft Web Platform Installer)"
+|"(Microsoft Web Platform Installer)"|
+|---|
 
 - Der Platformer sucht erst wenige Sekunden nach installierten Komponenten.
 
-Anschließend widmen wir uns den Produkten, und geben im Suchfeld –> MySql ein.
-Bei der neuesten Version klicken wir auf –> Hinzufügen "Mysql Windows ......."
+- Anschließend widmen wir uns den Produkten, und geben im Suchfeld –> MySql ein.
+- Bei der neuesten Version klicken wir auf –> Hinzufügen "Mysql Windows ......."
 
-Als nächstes benötigen wir noch PHP. 
-Also geben wir in dem Suchfeld PHP ein. Wir brauchen für unseren WebServer folgende Datei: "PHP 7.2 For IIS Express 
-(Es empfiehlt sich die größte mögliche neue Version zu benutzen).
+### Als nächstes benötigen wir noch PHP. 
+- Also geben wir in dem Suchfeld PHP ein. Wir brauchen für unseren WebServer folgende Datei: "PHP 7.2 For IIS Express 
+|(Es empfiehlt sich die größte mögliche neue Version zu benutzen).|
+|---|
 Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag in der Übersicht wieder. Das ist völlig richtig!
 
 |Nun können wir alle Installieren...|
@@ -61,7 +62,7 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 ---
 ### Guten Tag IIS
 - Dieser ist zwar nun Betriebsbereit, allerdings fehlen noch ein paar Kleinigkeiten!
-
+---
 - Für diesen Zweck habe ich bereits eine .php erstellt, die es ermöglicht sichere Passwörter bis zu 95 Zeichen lang, zu generieren. 
 - (Wie lang das Passwort sein soll, entscheidet ihr). 
 - Kein Passwort ähnelt dem anderen!
