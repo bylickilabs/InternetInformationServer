@@ -12,17 +12,17 @@
 ### Ihr möchtet euren eigenen WebServer betreiben?
 | LOKAL !| Erstellt ruck zuck neue Passwörter | ©Bylickilabs |
 |---|---|---|
-
+---
 ### Schritt 1:
 Klickt dafür bitte zunächst auf das Windows Logo in eurer Taskleiste, und gebt dort in das Suchfeld ein: 
 |OptionalFeatures|
 |---|
-
+---
 ### Schritt 2:
 Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter 
 |Internetinformationsdienste|
 |---|
-
+---
 ### Gefunden? Sehr gut! 
 
 - Nun verseht ihr dieses mit einem Häkchen. 
