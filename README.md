@@ -75,5 +75,6 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 ### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
 - Verschiebt nun bitte die Dateien aus dem Ordner .php nach... C:/inetpub/wwwroot.
 
-|Das Update 1.1 bitte zunächst Ignorieren, und noch nicht verschieben. Ggf. müssen 2 Vordefinierte Dateien überschrieben und ersetzt werden. Fertig!|
-|---|
+|Das Update 1.1 bitte zunächst Ignorieren, und noch nicht verschieben|
+Ggf. müssen 2 Vordefinierte Dateien überschrieben und ersetzt werden. Fertig!|
+|---|---|
