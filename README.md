@@ -29,14 +29,8 @@ Bevor ihr auf OK Klickt, sucht ihr noch schnell nach dem Reiter...
 | Anwendungsentwicklungsfeatures |
 |---|
 ### Diesen findet ihr unter den gerade eben Aktivierten, 
-| Internetinformationsdiensten(+) | .siehe Schritt 2. |
-|---|
-| WWW-Diensten(+) |
-|---|
-| Allgemeine HTTP-Features(+) |
-|---|
-| Anwendungsentwicklungsfeatures(+) |
-|---|
+| Internetinformationsdiensten(+) | WWW-Diensten(+) |Allgemeine HTTP-Features(+) | Anwendungsentwicklungsfeatures(+) |
+|---|---|---|---|
 - Dort nur noch eben schnell CGI aktivieren, und nun könnt ihr die Dienste mit dem bestätigen auf Ok Aktivieren.
 
 Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein. 
