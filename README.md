@@ -24,11 +24,11 @@ Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter
 ---
 ### Gefunden? Sehr gut! 
 
-- Nun verseht ihr dieses mit einem Häkchen. 
+### Nun verseht ihr dieses mit einem Häkchen. 
 Bevor ihr auf OK Klickt, sucht ihr noch schnell nach dem Reiter... 
 | Anwendungsentwicklungsfeatures |
 |---|
-Diesen findet ihr unter den gerade eben Aktivierten, 
+### Diesen findet ihr unter den gerade eben Aktivierten, 
 | Internetinformationsdiensten(+) →| .siehe Schritt 2.↑ |
 |---|
 | WWW-Diensten(+) |
