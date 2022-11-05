@@ -92,18 +92,18 @@ Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Ent
 ### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
 
 Verschiebt nun bitte die Dateien aus dem Ordner .php nach... 
-|C:/inetpub/wwwroot|
+| C:/inetpub/wwwroot |
 |---|
 
 In dem Archiv befindet sich bereits ein Update, verschiebt nun bitte die .php
 nach unserem 
-|wwwroot.|
+| wwwroot. |
 |---|
 
 ### Das Update beinhaltet bereits einige Neuerungen!
 
 Jetzt könnt ihr den Browser öffnen, und dort gebt ihr folgendes ein: 
-|localhost/phpinfo.php|
+| localhost/phpinfo.php |
 |---|
 
 - oder benutzt den folgednen Button zum öffnen der .php 
