@@ -19,6 +19,7 @@ Allerdings wartet er nur darauf, aktiviert zu werden.
 - Klickt dafür bitte zunächst auf das Windows Logo in eurer Taskleiste, und gebt dort in das Suchfeld (OptionalFeatures) ein. 
 "ohne Klammern", und bestätigt dieses mit Enter.
 ---
+
 ### Schritt 2:
 - Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter (Internetinformationsdienste),
 
@@ -38,6 +39,7 @@ Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein.
 - Dazu laden wir den Windows Platform Installer von Microsoft herunter.
 - Diesen bekommt ihr Hier [DOWNLOAD](https://go.microsoft.com/fwlink/?LinkId=287166)
 
+
 ### Wenn der Platform Installer heruntergeladen wurde, installiert ihn bitte. 
 
 - Platformer aus den Programmen starten!
@@ -45,10 +47,12 @@ Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein.
 |"(Microsoft Web Platform Installer)"|
 |---|
 
+
 - Der Platformer sucht erst wenige Sekunden nach installierten Komponenten.
 
 - Anschließend widmen wir uns den Produkten, und geben im Suchfeld –> MySql ein.
 - Bei der neuesten Version klicken wir auf –> Hinzufügen "Mysql Windows ......."
+
 
 ### Als nächstes benötigen wir noch PHP. 
 Also geben wir in dem Suchfeld PHP ein. Wir brauchen für unseren WebServer folgende Datei: "PHP 7.2 For IIS Express 
@@ -64,6 +68,7 @@ Das ist völlig richtig!
 - Dann fragt das Programm, welches Kennwort Sie für die MySql Datenbank verwenden wollen. 
 - Notieren Sie sich bitte den Benutzernamen –> root und das Passwort, das Sie zweimal eingeben müssen.
 
+
 ### Guten Tag IIS
 - Dieser ist zwar nun Betriebsbereit, allerdings fehlen noch ein paar Kleinigkeiten!
 ---
@@ -71,10 +76,12 @@ Das ist völlig richtig!
 - (Wie lang das Passwort sein soll, entscheidet ihr). 
 - Kein Passwort ähnelt dem anderen!
 
+
 ### Durch den aktivierten WebServer befindet sich nun auf eurer Festplatte: C:/ ein "inetpub Verzeichniss" 
 
 Dort befinden sich weitere Unterordner, ladet euch nun das Archiv aus meiner Entwicklerschmiede 
 [DOWNLOAD](https://github.com/bylickilabs/InternetInformationServer/archive/refs/heads/main.zip) herunter.
+
 
 ### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
 
