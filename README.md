@@ -41,6 +41,7 @@ Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein.
 ### Wenn der Platform Installer heruntergeladen wurde, installiert ihn bitte. 
 
 - Platformer aus den Programmen starten!
+
 |"(Microsoft Web Platform Installer)"|
 |---|
 
