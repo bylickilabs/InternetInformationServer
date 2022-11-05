@@ -23,7 +23,9 @@ Klickt dafür bitte zunächst auf das Windows Logo in eurer Taskleiste, und gebt
 |---|
 
 ### Schritt 2:
-- Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter (Internetinformationsdienste),
+Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter 
+|Internetinformationsdienste|
+|---|
 
 ### Gefunden? Sehr gut! 
 
