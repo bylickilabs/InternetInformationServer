@@ -12,11 +12,13 @@
 | LOKAL !| Erstellt ruck zuck neue Passwörter | ©Bylickilabs |
 |---|---|---|
 ---
+
 ### Schritt 1:
 Klickt dafür bitte zunächst auf das Windows Logo in eurer Taskleiste, und gebt dort in das Suchfeld ein: 
 |OptionalFeatures|
 |---|
 ---
+
 ### Schritt 2:
 Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter 
 | Internetinformationsdienste |
@@ -28,8 +30,9 @@ Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter
 Bevor ihr auf OK Klickt, sucht ihr noch schnell nach dem Reiter... 
 | Anwendungsentwicklungsfeatures |
 |---|
+
 ### Diesen findet ihr unter den gerade eben Aktivierten, 
-| Internetinformationsdiensten(+) →| WWW-Diensten(+) →|Allgemeine HTTP-Features(+) →| Anwendungsentwicklungsfeatures(+) |x||
+| Internetinformationsdiensten(+) →| WWW-Diensten(+) →|Allgemeine HTTP-Features(+) →| Anwendungsentwicklungsfeatures(+) →|
 |---|---|---|---|
 - Dort nur noch eben schnell CGI aktivieren, und nun könnt ihr die Dienste mit dem bestätigen auf Ok Aktivieren.
 
