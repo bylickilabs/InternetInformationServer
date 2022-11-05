@@ -58,11 +58,10 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 
 |Nun können wir alle Installieren...|
 |---|
----
+
 - Dann fragt das Programm, welches Kennwort Sie für die MySql Datenbank verwenden wollen. 
 - Notieren Sie sich bitte den Benutzernamen –> root und das Passwort, das Sie zweimal eingeben müssen.
----
----
+
 ### Guten Tag IIS
 - Dieser ist zwar nun Betriebsbereit, allerdings fehlen noch ein paar Kleinigkeiten!
 ---
