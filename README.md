@@ -8,7 +8,7 @@
 
 - Nach jeder Installation eines Betriebssystemes ist dieser Standardgemäß Deaktiviert. 
 - Allerdings wartet er nur darauf, aktiviert zu werden.
-
+---
 ### Ihr möchtet euren eigenen WebServer betreiben?
 | LOKAL !| Erstellt ruck zuck neue Passwörter | ©Bylickilabs |
 |---|---|---|
