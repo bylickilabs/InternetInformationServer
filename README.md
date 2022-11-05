@@ -74,17 +74,17 @@ Nachdem MySql und PHP nun hinzugefügt wurden, befindet sich ein dritter Eintrag
 
 ### Nach dem Download, öffnet ihr bitte das herunter geladene Archiv! 
 
-- Verschiebt nun bitte die Dateien aus dem Ordner .php nach... 
+Verschiebt nun bitte die Dateien aus dem Ordner .php nach... 
 |C:/inetpub/wwwroot|
 |---|
 
-- In dem Archiv befindet sich bereits ein Update verschiebt nun bitte die .php
-- nach unserem |wwwroot.|
+In dem Archiv befindet sich bereits ein Update verschiebt nun bitte die .php
+nach unserem |wwwroot.|
 |---|
 
 ### Das Update beinhaltet bereits einige Neuerungen!
 
-### Jetzt könnt ihr den Browser öffnen, und dort gebt ihr folgendes ein: |
+Jetzt könnt ihr den Browser öffnen, und dort gebt ihr folgendes ein: |
 localhost/phpinfo.php|
 |---|
 
