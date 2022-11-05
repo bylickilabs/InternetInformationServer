@@ -9,7 +9,7 @@
 - Nach jeder Installation eines Betriebssystemes ist dieser Standardgemäß Deaktiviert. 
 - Allerdings wartet er nur darauf, aktiviert zu werden.
 ### Ihr möchtet euren eigenen WebServer betreiben?
-| LOKAL !| Erstellt ruck zuck neue Passwörter | ©Bylickilabs |
+| LOKAL !| Ruck zuck neue passwörter erstellen? | ©Bylickilabs |
 |---|---|---|
 ---
 
@@ -24,17 +24,20 @@ Es öffnet sich nun ein Fenster, dort sucht ihr bitte nach dem Reiter
 | Internetinformationsdienste |
 |---|
 ---
+
 ### Gefunden? Sehr gut! 
 
 ### Nun verseht ihr dieses mit einem Häkchen. 
 Bevor ihr auf OK Klickt, sucht ihr noch schnell nach dem Reiter... 
 | Anwendungsentwicklungsfeatures |
 |---|
+---
 
 ### Diesen findet ihr unter den gerade eben Aktivierten, 
 | Internetinformationsdiensten(+) →| WWW-Diensten(+) →|Allgemeine HTTP-Features(+) →| Anwendungsentwicklungsfeatures(+) →|
 |---|---|---|---|
 - Dort nur noch eben schnell CGI aktivieren, und nun könnt ihr die Dienste mit dem bestätigen auf Ok Aktivieren.
+---
 
 Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein. 
 ---
@@ -42,7 +45,8 @@ Der Vorgang sollte innerhalb weniger Sekunden abgeschlossen sein.
 ### Schritt 3:
 - Der lokale Webserver für Windows 10 oder Windows 11 ist nun also aktiviert.
 - Jetzt Installieren wir noch die MySql – Datenbank, und PHP auf dem Rechner.
- 
+---
+
 - Dazu laden wir den Windows Platform Installer von Microsoft herunter.
 - Diesen bekommt ihr Hier [DOWNLOAD](https://go.microsoft.com/fwlink/?LinkId=287166)
 ---
