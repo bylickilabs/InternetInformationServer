@@ -1,4 +1,4 @@
-### IIS web server
+### IIS Web Server
 - (Internet Information Server)
 
 |tutorial|
