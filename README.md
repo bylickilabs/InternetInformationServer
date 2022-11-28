@@ -14,7 +14,7 @@
 ---
 
 ### Step 1:
-To do this, please first click on the Windows logo in your taskbar and enter in the search field:
+To do this, please First Click on the Windows Logo in your Taskbar and Enter in the search field:
 |Optional Features|
 |---|
 ---
