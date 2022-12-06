@@ -118,6 +118,6 @@ Ps. Check out this page from time to time. Just in case new updates are released
 
 | Screenshots |
 |---|---|---|
-|![Screenshot-1](https://user-images.githubusercontent.com/109308073/205845846-fe9525d0-5f75-477b-b551-7366ca063b31.jpg)|![Screenshot-2](https://user-images.githubusercontent.com/109308073/205845875-e96f3057-c02e-4cb6-b48a-a8c4b6388838.jpg)|![Screenshot-3](https://user-images.githubusercontent.com/109308073/205845903-1f2f71d1-da81-47b8-a85d-f225eaa2abc5.jpg)|
+|![](https://user-images.githubusercontent.com/109308073/205845846-fe9525d0-5f75-477b-b551-7366ca063b31.jpg)|![](https://user-images.githubusercontent.com/109308073/205845875-e96f3057-c02e-4cb6-b48a-a8c4b6388838.jpg)|![](https://user-images.githubusercontent.com/109308073/205845903-1f2f71d1-da81-47b8-a85d-f225eaa2abc5.jpg)|
 
 
