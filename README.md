@@ -38,7 +38,7 @@ Before you click OK, quickly search for the tab...
 |---|---|---|---|
 - Just quickly activate CGI there, and now you can activate the services by clicking OK.
 ---
-
+ 
 The process should be completed within a few seconds.
 ---
 
