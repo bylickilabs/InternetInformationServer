@@ -12,7 +12,7 @@
 | LOCAL !| Create new passwords in no time? | ©Bylickilabs |
 |---|---|---|
 ---
- 
+  
 ### Step 1:
 To do this, please First Click on the Windows Logo in your Taskbar and Enter in the search field:
 |Optional Features|
