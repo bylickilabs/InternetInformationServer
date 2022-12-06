@@ -26,7 +26,7 @@ A window will now open, please look for the tab there
 ---
   
 ### Found? Very good!
-
+ 
 ### Now you provide this with a tick.
 Before you click OK, quickly search for the tab...
 | Application Development Features |
