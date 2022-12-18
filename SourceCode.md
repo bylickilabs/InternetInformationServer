@@ -81,3 +81,15 @@ if (isset($_POST['anzahl'])){
 }
 
 $content .= '
+<form method="post">
+<br/>
+Passwort Länge:
+<input name="anzahl" value="'.$_POST['anzahl'].'" />
+<input name="submit" type="submit" value="Generieren" />
+<br>
+<br>
+<br>
+/--------------------------------------------------------------------------------------------\<br> 
+|---------------------- Hier gelangen sie zu meinen Websites -----------------------|<br> 
+\--------------------------------------------------------------------------------------------/<br> 
+
