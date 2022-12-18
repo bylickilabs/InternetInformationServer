@@ -131,4 +131,9 @@ https://keybase.io/bylickilabs
 © https://www.instagram.com/Dondada_1703/
 </details></li>
 <li> 
+<details>
+<summary>Telegram</summary>
+© https://t.me/Bylickilabs  
+</details></li></ul>
+<details>
 
