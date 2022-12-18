@@ -22,7 +22,19 @@
 \-------------------------------------------------------------/<br />
 <br /> 
 <body bgcolor=999090>
-Dieser Generator erstellt f&uuml;r Sie Passwörter mit bis zu 46 Zeichen.<br />
+Dieser Generator erstellt ihnen Passwörter mit bis zu 46 Zeichen.<br />
 Dafür werden verwendet: Buchstaben von a-z, A-Z, sowie Zahlen und erlaubte Sonderzeichen.<br />
 Sollte der gezeigte Schlüssel Ihnen nicht sicher genug sein, generieren sie einfach einen neuen.<br />
 <br />
+
+<?php
+if (version_compare(PHP_VERSION, '4.1.0', '<')) {
+    if (isset($HTTP_POST_VARS['submit']) && isset($HTTP_POST_VARS['anzahl'])){
+        $_POST['submit'] = $HTTP_POST_VARS['submit'];
+        $_POST['anzahl'] = $HTTP_POST_VARS['anzahl'];
+    }
+}
+if (version_compare(PHP_VERSION, '4.2.0', '<')) {
+    srand((double) microtime() * 1000000);
+}
+
