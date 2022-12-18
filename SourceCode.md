@@ -32,10 +32,9 @@
 
 <br>
 <br /> 
-<body bgcolor=999090>
-Dieser Generator erstellt f&uuml;r Sie Passwörter mit bis zu 46 Zeichen.<br />
-Dafür werden verwendet: Buchstaben von a-z, A-Z, sowie Zahlen und erlaubte Sonderzeichen.<br />
-Sollte der gezeigte Schlüssel Ihnen nicht sicher genug sein, generieren sie einfach einen neuen.<br />
+<font color="#664C4C">Dieser Generator erstellt ihnen Passwörter mit bis zu 46 Zeichen.</font><br />
+<font color="#664C4C">Dafür werden verwendet: Buchstaben von a-z, A-Z, sowie Zahlen und erlaubte Sonderzeichen.</font><br />
+<font color="#664C4C">Sollte der gezeigte Schlüssel Ihnen nicht sicher genug sein, generieren sie einfach einen neuen.</font><br />
 <br />
 <?php
 if (version_compare(PHP_VERSION, '4.1.0', '<')) {
@@ -81,15 +80,14 @@ if (isset($_POST['anzahl'])){
         $_POST['anzahl'] = 46;
     }
     $_POST['anzahl'] = $_POST['anzahl'] -0;
-    $content = '<font color="green">Erfolgreich Generiert</font>:<br />'.
-    'Ihr neues, '.$_POST['anzahl'].'-stelliges Passwort wurde erstellt:<br />'.
-    '<textarea style="width:35%;">'.generateSymbols($_POST['anzahl']).'</textarea>'.
+    $content = '<br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">Erfolgreich Generiert:</font><br /><br/>'.
+    '&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ihr neues, '.$_POST['anzahl'].'-stelliges Passwort wurde erstellt:<br />'.
+    '&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<textarea style="width:22%;">'.generateSymbols($_POST['anzahl']).'</textarea>'.
     '<br /><br />';
 }else{
     $_POST['anzahl'] = 46;
     $content = '';
 }
-
 $content .= '
 <form method="post">
 <br/>
@@ -101,49 +99,49 @@ $content .= '
 <br>
 <br>
 <br>
-Hier gelangen sie zu meinen Websites:<br> 
+<font color="#FF9900">Hier gelangen sie zu meinen Websites:</font><br />
 <br>
 <details>
 <summary>Kontakt / Languages, DevTools & More</summary>
 <ul><li>
 <details>
 <summary>Keybase</summary>
-https://keybase.io/bylickilabs
+<font color="#008CFF">https://keybase.io/bylickilabs</font><br />
 </details></li>
 <li> 
 <details>
 <summary>Github</summary>
-© https://github.com/bylickilabs
+<font color="#008CFF">https://github.com/bylickilabs</font><br />
 </details></li>
 <li>  
 <details>
 <summary>Twitter</summary>
-© https://twitter.com/DonDada_1703
+<font color="#008CFF">https://twitter.com/DonDada_1703</font><br />
 </details></li>
 <li>  
 <details>
 <summary>Twitch</summary>
-© https://www.twitch.tv/dondada1703
+<font color="#008CFF">https://www.twitch.tv/dondada1703</font><br />
 </details></li>
 <li>
 <details>
 <summary>TikTok</summary>
-© https://www.tiktok.com/@dondada_1703
+<font color="#008CFF">https://www.tiktok.com/@thobyl_82</font><br />
 </details></li>
 <li>
 <details>
 <summary>soundcloud</summary>
-© https://soundcloud.com/don-dada-1703
+<font color="#008CFF">https://soundcloud.com/don-dada-1703</font><br />
 </details></li>
 <li> 
 <details>
 <summary>Instagram</summary>
-© https://www.instagram.com/Dondada_1703/
+<font color="#008CFF">https://www.instagram.com/Dondada_1703/</font><br />
 </details></li>
 <li> 
 <details>
 <summary>Telegram</summary>
-© https://t.me/Bylickilabs  
+<font color="#008CFF">https://t.me/Bylickilabs</font><br />
 </details></li></ul>
 <details>
 <summary>Languages, Dev Tools & More:</summary>
