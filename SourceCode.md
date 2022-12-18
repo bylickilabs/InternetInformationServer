@@ -70,3 +70,8 @@ if (isset($_POST['anzahl'])){
     }elseif($_POST['anzahl'] == '' || $_POST['anzahl'] <= 0){
         $_POST['anzahl'] = 46;
     }
+    $_POST['anzahl'] = $_POST['anzahl'] -0;
+    $content = '<font color="green">Erfolgreich Generiert</font>:<br />'.
+    'Ihr neues, '.$_POST['anzahl'].'-stelliges Passwort wurde erstellt:<br />'.
+    '<textarea style="width:35%;">'.generateSymbols($_POST['anzahl']).'</textarea>'.
+    '<br /><br />';
