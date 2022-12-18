@@ -92,4 +92,13 @@ Passwort Länge:
 /--------------------------------------------------------------------------------------------\<br> 
 |---------------------- Hier gelangen sie zu meinen Websites -----------------------|<br> 
 \--------------------------------------------------------------------------------------------/<br> 
+<br>
+<details>
+<summary>Kontakt / Languages, DevTools & More</summary>
+<ul><li>
+<details>
+<summary>Keybase</summary>
+https://keybase.io/bylickilabs
+</details></li>
+<li> 
 
