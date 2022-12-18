@@ -11,22 +11,26 @@
   </a>
 <br> 
 <br>
-<a align="center">
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;<a align="center">
   <a href="https://github.com/sponsors/bylickilabs">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;/-------------------------------------------------------\<br />
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;| Github.com/bylickilabs | www.bylickilabs.de            |<br/>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;\-------------------------------------------------------/<br />
+
+&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/-----------------------------------------------------------------------------\<br />
+&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| ©Thorsten Bylicki | Bylickilabs | 18.12.2022 | 07:00 Uhr | v.1.5            |<br/>
+&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\-----------------------------------------------------------------------------/<br />
+
 <br>
-/-------------------------------------------------------------\<br />
-| ©Thorsten Bylicki | 18.12.2022 | 07:00 Uhr | v.1.5 |<br/>
-\-------------------------------------------------------------/<br />
 <br /> 
 <body bgcolor=999090>
-Dieser Generator erstellt ihnen Passwörter mit bis zu 46 Zeichen.<br />
+Dieser Generator erstellt f&uuml;r Sie Passwörter mit bis zu 46 Zeichen.<br />
 Dafür werden verwendet: Buchstaben von a-z, A-Z, sowie Zahlen und erlaubte Sonderzeichen.<br />
 Sollte der gezeigte Schlüssel Ihnen nicht sicher genug sein, generieren sie einfach einen neuen.<br />
 <br />
-
 <?php
 if (version_compare(PHP_VERSION, '4.1.0', '<')) {
     if (isset($HTTP_POST_VARS['submit']) && isset($HTTP_POST_VARS['anzahl'])){
@@ -37,7 +41,7 @@ if (version_compare(PHP_VERSION, '4.1.0', '<')) {
 if (version_compare(PHP_VERSION, '4.2.0', '<')) {
     srand((double) microtime() * 1000000);
 }
-$symbols=array('©BYLICKILABS','!', '"', '#', '$', '%', '&', '\'', '(', ')', '*', '+', ',', '-', '.', '/', ':', 
+$symbols=array('!', '"', '#', '$', '%', '&', '\'', '(', ')', '*', '+', ',', '-', '.', '/', ':', 
 ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~');
 $buchst=array('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z');
 foreach($buchst as $tmp){
@@ -83,15 +87,15 @@ if (isset($_POST['anzahl'])){
 $content .= '
 <form method="post">
 <br/>
-Passwort Länge:
-<input name="anzahl" value="'.$_POST['anzahl'].'" />
+<br/>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Passwort Länge:
+<br>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<input name="anzahl" value="'.$_POST['anzahl'].'" />
 <input name="submit" type="submit" value="Generieren" />
 <br>
 <br>
 <br>
-/--------------------------------------------------------------------------------------------\<br> 
-|---------------------- Hier gelangen sie zu meinen Websites -----------------------|<br> 
-\--------------------------------------------------------------------------------------------/<br> 
+<br>
+Hier gelangen sie zu meinen Websites:<br> 
 <br>
 <details>
 <summary>Kontakt / Languages, DevTools & More</summary>
@@ -118,7 +122,7 @@ https://keybase.io/bylickilabs
 <li>
 <details>
 <summary>TikTok</summary>
-© https://www.tiktok.com/@thobyl_82
+© https://www.tiktok.com/@dondada_1703
 </details></li>
 <li>
 <details>
@@ -136,7 +140,6 @@ https://keybase.io/bylickilabs
 © https://t.me/Bylickilabs  
 </details></li></ul>
 <details>
-
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
 <details>
