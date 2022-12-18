@@ -49,7 +49,7 @@ if (version_compare(PHP_VERSION, '4.1.0', '<')) {
 if (version_compare(PHP_VERSION, '4.2.0', '<')) {
     srand((double) microtime() * 1000000);
 }
-$symbols=array('!', '"', '#', '$', '%', '&', '\'', '(', ')', '*', '+', ',', '-', '.', '/', ':', 
+$symbols=array('©BYLICKILABS', '!', '"', '#', '$', '%', '&', '\'', '(', ')', '*', '+', ',', '-', '.', '/', ':', 
 ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~');
 $buchst=array('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z');
 foreach($buchst as $tmp){
