@@ -17,3 +17,12 @@
   </a>
 <br>
 <br>
+/-------------------------------------------------------------\<br />
+| ©Thorsten Bylicki | 18.12.2022 | 07:00 Uhr | v.1.5 |<br/>
+\-------------------------------------------------------------/<br />
+<br /> 
+<body bgcolor=999090>
+Dieser Generator erstellt f&uuml;r Sie Passwörter mit bis zu 46 Zeichen.<br />
+Dafür werden verwendet: Buchstaben von a-z, A-Z, sowie Zahlen und erlaubte Sonderzeichen.<br />
+Sollte der gezeigte Schlüssel Ihnen nicht sicher genug sein, generieren sie einfach einen neuen.<br />
+<br />
