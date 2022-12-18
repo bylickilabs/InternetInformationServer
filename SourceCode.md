@@ -10,7 +10,7 @@
 | Screenshots After |
 |---|
 
-|![1](https://user-images.githubusercontent.com/109308073/208291799-f78c3f6f-1bbd-4211-b335-010b51457e95.jpg)|![2](https://user-images.githubusercontent.com/109308073/208291803-140a42e2-64b9-41b0-9f92-0fd0193d8ff7.jpg)|![3](https://user-images.githubusercontent.com/109308073/208291869-b7e52d2f-bd76-4f8c-a367-20fb9abd1147.jpg)|
+|![1](https://user-images.githubusercontent.com/109308073/208291799-f78c3f6f-1bbd-4211-b335-010b51457e95.jpg)|![3](https://user-images.githubusercontent.com/109308073/208291869-b7e52d2f-bd76-4f8c-a367-20fb9abd1147.jpg)|![2](https://user-images.githubusercontent.com/109308073/208291803-140a42e2-64b9-41b0-9f92-0fd0193d8ff7.jpg)|
 |---|---|---|
 
 ```yarn
