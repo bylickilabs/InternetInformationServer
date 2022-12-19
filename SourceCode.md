@@ -23,11 +23,17 @@
   </a>
 <br> 
 <br>
+
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;<a align="center">
   <a href="https://github.com/sponsors/bylickilabs">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 <br>
+
+&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&emsp;/--------------------------------------------\<br />
+&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&emsp;| Listed on Awesome-Github-Profiles          |<br/>
+&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&emsp;\--------------------------------------------/<br />
+
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;/-------------------------------------------------------\<br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;| Github.com/bylickilabs | www.bylickilabs.de            |<br/>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;\-------------------------------------------------------/<br />
@@ -35,7 +41,6 @@
 &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/-----------------------------------------------------------------------------\<br />
 &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| ©Thorsten Bylicki | Bylickilabs | 18.12.2022 | 07:00 Uhr | v.1.5            |<br/>
 &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\-----------------------------------------------------------------------------/<br />
-
 <br>
 <br /> 
 <font color="#664C4C">Dieser Generator erstellt ihnen Passwörter mit bis zu 46 Zeichen.</font><br />
@@ -52,7 +57,7 @@ if (version_compare(PHP_VERSION, '4.1.0', '<')) {
 if (version_compare(PHP_VERSION, '4.2.0', '<')) {
     srand((double) microtime() * 1000000);
 }
-$symbols=array('©BYLICKILABS', '!', '"', '#', '$', '%', '&', '\'', '(', ')', '*', '+', ',', '-', '.', '/', ':', 
+$symbols=array('!', '"', '#', '$', '%', '&', '\'', '(', ')', '*', '+', ',', '-', '.', '/', ':', 
 ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~');
 $buchst=array('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z');
 foreach($buchst as $tmp){
@@ -198,6 +203,8 @@ $content .= '
 </details></li></ul>
 </details>  
 <br>
+<br>
+<br> 
 <br>
 <br>
 <br>
