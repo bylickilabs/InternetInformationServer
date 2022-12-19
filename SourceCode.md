@@ -1,13 +1,7 @@
 ### SourceCode .php
 ------------
 ------------
-| Screenshots Before |
-|---|
-
-|![Screenshot-2](https://user-images.githubusercontent.com/109308073/205845875-e96f3057-c02e-4cb6-b48a-a8c4b6388838.jpg)|![Screenshot-3](https://user-images.githubusercontent.com/109308073/205845903-1f2f71d1-da81-47b8-a85d-f225eaa2abc5.jpg)|
-|---|---|
-
-| Screenshots After 18.12.2022 |
+| Screenshots 18.12.2022 |
 |---|
 
 |![1](https://user-images.githubusercontent.com/109308073/208291799-f78c3f6f-1bbd-4211-b335-010b51457e95.jpg)|![3](https://user-images.githubusercontent.com/109308073/208291869-b7e52d2f-bd76-4f8c-a367-20fb9abd1147.jpg)|![2](https://user-images.githubusercontent.com/109308073/208291803-140a42e2-64b9-41b0-9f92-0fd0193d8ff7.jpg)|
