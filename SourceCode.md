@@ -33,7 +33,7 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;\-------------------------------------------------------/<br />
 
 &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/-----------------------------------------------------------------------------\<br />
-&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| ©Thorsten Bylicki | Bylickilabs | 18.12.2022 | 07:00 Uhr | v.1.5            |<br/>
+&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| ©Thorsten Bylicki | Bylickilabs | 19.12.2022 | 10:30 Uhr | v.1.6            |<br/>
 &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\-----------------------------------------------------------------------------/<br />
 <br>
 <br /> 
