@@ -118,4 +118,4 @@ As a developer, I have reserved this option for myself.
 Ps. Check out this page from time to time. Just in case new updates are released.
 - If you have already done so, you can find the new download HERE.
 
-[Screenshots](https://github.com/bylickilabs/InternetInformationServer/blob/main/screenshots.md)
+- [Screenshots](https://github.com/bylickilabs/InternetInformationServer/blob/main/screenshots.md)
