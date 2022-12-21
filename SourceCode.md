@@ -11,7 +11,7 @@
 |---|
 
 |![5](https://user-images.githubusercontent.com/109308073/208862066-fcaf9c8f-566a-4e0f-8e11-f5d7a14ce878.jpg)|![6](https://user-images.githubusercontent.com/109308073/208862128-88c14699-4855-4f54-9a3e-467d5b5fba20.jpg)|
-|---|---|---|
+|---|---|
 
 ```yarn
 &nbsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;©Thorsten Bylicki
