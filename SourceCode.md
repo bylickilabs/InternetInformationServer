@@ -64,5 +64,6 @@ function generateSymbols($num = 46){
 }
 
 if (isset($_POST['anzahl'])){
+    $_POST['anzahl'] = preg_replace('/([^0-9]*)/', '', $_POST['anzahl']);
 
 ```
