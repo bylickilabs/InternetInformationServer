@@ -29,5 +29,6 @@
 &emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;<font color="#664C4C">Sollte der gezeigte Schlüssel Ihnen nicht sicher genug sein, generieren sie einfach einen neuen.</font><br />
 <br />
 <?php
+if (version_compare(PHP_VERSION, '4.1.0', '<')) {
 
 ```
