@@ -56,5 +56,6 @@ function generateSymbol(){
 }
 
 function generateSymbols($num = 46){
+    $ret = '';
 
 ```
