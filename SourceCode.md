@@ -140,7 +140,7 @@ $content .= '
 <li> 
 <details>
 <summary>Kontakt</summary>
-
+<ul><li>
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
 <details>
