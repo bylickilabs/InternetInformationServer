@@ -95,5 +95,6 @@ $content .= '
 <br>
 <br>
 <details>
+<summary>Kontakt / Languages, DevTools & More</summary>
 
 ```
