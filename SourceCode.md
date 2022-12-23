@@ -142,6 +142,7 @@ $content .= '
 <summary>Kontakt</summary>
 <ul><li>
 <details>
+<summary>Mail & More</summary>
 
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
