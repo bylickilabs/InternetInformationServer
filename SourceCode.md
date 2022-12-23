@@ -94,5 +94,6 @@ $content .= '
 <br>
 <br>
 <br>
+<details>
 
 ```
