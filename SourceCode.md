@@ -143,6 +143,7 @@ $content .= '
 <ul><li>
 <details>
 <summary>Mail & More</summary>
+<font color="#008CFF">Thorsten Bylicki</font><br />
 
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
