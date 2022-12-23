@@ -127,5 +127,6 @@ $content .= '
 <font color="#008CFF">https://soundcloud.com/don-dada-1703</font><br />
 </details></li>
 <li> 
+<details>
 
 ```
