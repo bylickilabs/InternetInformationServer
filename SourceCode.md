@@ -136,5 +136,6 @@ $content .= '
 <summary>Telegram</summary>
 <font color="#008CFF">https://t.me/Bylickilabs</font><br />
 <details>
+<summary>Languages, Dev Tools & More:</summary>
 
 ```
