@@ -76,5 +76,6 @@ if (isset($_POST['anzahl'])){
     '&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<textarea style="width:22%;">'.generateSymbols($_POST['anzahl']).'</textarea>'.
     '<br /><br />';
 }else{
+    $_POST['anzahl'] = 46;
 
 ```
