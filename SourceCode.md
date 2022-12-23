@@ -145,6 +145,7 @@ $content .= '
 <summary>Mail & More</summary>
 <font color="#008CFF">Thorsten Bylicki</font><br />
 <font color="#008CFF">www.bylickilabs.de</font><br />
+<font color="#008CFF">Email: 109308073+bylickilabs@users.noreply.github.com</font><br />
 
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
