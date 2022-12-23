@@ -133,5 +133,6 @@ $content .= '
 </details></li>
 <li> 
 <details>
+<summary>Telegram</summary>
 
 ```
