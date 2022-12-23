@@ -98,5 +98,6 @@ $content .= '
 <summary>Kontakt / Languages, DevTools & More</summary>
 <ul><li>
 <details>
+<summary>Keybase</summary>
 
 ```
