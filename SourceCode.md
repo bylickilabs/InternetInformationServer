@@ -81,5 +81,6 @@ if (isset($_POST['anzahl'])){
 }
 $content .= '
 <form method="post">
+<br/>
 
 ```
