@@ -97,5 +97,6 @@ $content .= '
 <ul><li>
 <details>
 <summary>Keybase</summary>
+<font color="#008CFF">https://keybase.io/bylickilabs</font><br />
 
 ```
