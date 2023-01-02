@@ -35,3 +35,4 @@ if (version_compare(PHP_VERSION, '4.1.0', '<')) {
     }
 }
 if (version_compare(PHP_VERSION, '4.2.0', '<')) {
+    srand((double) microtime() * 1000000);
