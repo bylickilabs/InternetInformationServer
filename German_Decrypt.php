@@ -197,17 +197,4 @@ $content .= '
 <br>
 <br> 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-';
-
-echo $content;
 ```
