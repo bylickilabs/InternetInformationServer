@@ -33,3 +33,4 @@ if (version_compare(PHP_VERSION, '4.1.0', '<')) {
         $_POST['submit'] = $HTTP_POST_VARS['submit'];
         $_POST['quantity'] = $HTTP_POST_VARS['quantity'];
     }
+}
