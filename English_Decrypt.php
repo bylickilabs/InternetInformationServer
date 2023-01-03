@@ -79,3 +79,4 @@ if (isset($_POST['quantity'])){
     $content = '';
 }
 $content .= '
+<form method="post">
