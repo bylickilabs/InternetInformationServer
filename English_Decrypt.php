@@ -68,3 +68,4 @@ if (isset($_POST['quantity'])){
         $_POST['quantity'] = 46;
     }elseif($_POST['quantity'] == '' || $_POST['quantity'] <= 0){
         $_POST['quantity'] = 46;
+    }
