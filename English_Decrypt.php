@@ -60,3 +60,4 @@ function generateSymbols($num = 46){
         $ret .= generateSymbol();
     }
     return $ret;
+}
