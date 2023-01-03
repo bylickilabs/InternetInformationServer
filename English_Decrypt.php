@@ -53,3 +53,5 @@ function generateSymbol(){
     global $symbols;
     return $symbols[rand(0, count($symbols))];    
 }
+
+function generateSymbols($num = 46){
