@@ -139,3 +139,4 @@ $content .= '
 <details>
 <summary>Kontakt</summary>
 <font color="#008CFF">Thorsten Bylicki</font><br />
+<font color="#008CFF">www.bylickilabs.de</font><br />
