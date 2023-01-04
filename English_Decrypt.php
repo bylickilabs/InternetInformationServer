@@ -177,3 +177,4 @@ $content .= '
 </details></li>
 <li> 
 <details>
+<summary>Software</summary>
