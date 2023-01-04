@@ -135,3 +135,4 @@ $content .= '
 <details></li></ul>
 <details>
 <summary>Contact, Languages, DevTools & More</summary>
+<ul><li>
