@@ -111,3 +111,4 @@ $content .= '
 <li>  
 <details>
 <summary>Twitch</summary>
+</details></li>
