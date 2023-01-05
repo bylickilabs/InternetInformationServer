@@ -52,4 +52,5 @@ for($i = 0; $i <= 9; $i++){
 function generateSymbol(){
     global $symbols;
     return $symbols[rand(0, count($symbols))];    
+}
 
