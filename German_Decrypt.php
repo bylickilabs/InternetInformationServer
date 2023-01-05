@@ -43,4 +43,5 @@ $buchst=array('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', '
 foreach($buchst as $tmp){
     $symbols[] = $tmp;
 }
+foreach($buchst as $tmp){
 
