@@ -62,4 +62,5 @@ function generateSymbols($num = 46){
     return $ret;
 }
 
+if (isset($_POST['anzahl'])){
 
