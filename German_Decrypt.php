@@ -44,4 +44,5 @@ foreach($buchst as $tmp){
     $symbols[] = $tmp;
 }
 foreach($buchst as $tmp){
+    $symbols[] = strtoupper($tmp);
 
