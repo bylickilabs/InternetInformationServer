@@ -29,4 +29,5 @@
 <br />
 <?php
 if (version_compare(PHP_VERSION, '4.1.0', '<')) {
+    if (isset($HTTP_POST_VARS['submit']) && isset($HTTP_POST_VARS['anzahl'])){
 
