@@ -92,3 +92,4 @@ $content .= '
 <font color="#FF9900">Hier gelangen sie zu meinen Websites:</font><br />
 <br>
 <details>
+<summary>Websites</summary>
