@@ -47,4 +47,5 @@ foreach($buchst as $tmp){
     $symbols[] = strtoupper($tmp);
 }
 for($i = 0; $i <= 9; $i++){
+    $symbols[] = $i;
 
