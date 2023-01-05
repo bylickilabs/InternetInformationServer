@@ -137,4 +137,5 @@ $content .= '
 <details>
 <summary>Kontakt, Languages, DevTools & More</summary>
 </details></li>
+<details>
 
