@@ -78,4 +78,5 @@ if (isset($_POST['anzahl'])){
     $_POST['anzahl'] = 46;
     $content = '';
 }
+$content .= '
 
