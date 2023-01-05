@@ -94,3 +94,4 @@ $content .= '
 <details>
 <summary>Websites</summary>
 <ul><li>
+<details>
