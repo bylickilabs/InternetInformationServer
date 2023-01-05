@@ -79,4 +79,5 @@ if (isset($_POST['anzahl'])){
     $content = '';
 }
 $content .= '
+<form method="post">
 
