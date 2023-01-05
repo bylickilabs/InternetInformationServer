@@ -140,4 +140,5 @@ $content .= '
 <details>
 <li> 
 <details>
+<summary>Kontakt</summary>
 
