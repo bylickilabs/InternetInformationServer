@@ -146,4 +146,5 @@ $content .= '
 <font color="#008CFF">Email: 109308073+bylickilabs@users.noreply.github.com</font><br />
 </details></li>
 <li> 
+<details>
 
