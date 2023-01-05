@@ -67,4 +67,5 @@ if (isset($_POST['anzahl'])){
     if ($_POST['anzahl'] >= 46){
         $_POST['anzahl'] = 46;
     }elseif($_POST['anzahl'] == '' || $_POST['anzahl'] <= 0){
+        $_POST['anzahl'] = 46;
 
