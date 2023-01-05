@@ -141,4 +141,5 @@ $content .= '
 <li> 
 <details>
 <summary>Kontakt</summary>
+<font color="#008CFF">Thorsten Bylicki</font><br />
 
