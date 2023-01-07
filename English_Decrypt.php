@@ -51,5 +51,6 @@ foreach($buchst as $tmp){
 for($i = 0; $i <= 9; $i++){
     $symbols[] = $i;
 }
+function generateSymbol(){
 
 ```
