@@ -81,4 +81,6 @@ if (isset($_POST['quantity'])){
     $content = '';
 }
 
+$content .= '
+
 ```
