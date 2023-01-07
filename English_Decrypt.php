@@ -78,5 +78,6 @@ if (isset($_POST['quantity'])){
     '<br /><br />';
 }else{
     $_POST['quantity'] = 46;
+    $content = '';
 
 ```
