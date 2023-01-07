@@ -77,5 +77,6 @@ if (isset($_POST['quantity'])){
     '&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<textarea style="width:22%;">'.generateSymbols($_POST['quantity']).'</textarea>'.
     '<br /><br />';
 }else{
+    $_POST['quantity'] = 46;
 
 ```
