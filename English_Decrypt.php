@@ -141,5 +141,6 @@ $content .= '
 <summary>Kontakt</summary>
 <font color="#008CFF">Thorsten Bylicki</font><br />
 <font color="#008CFF">www.bylickilabs.de</font><br />
+<font color="#008CFF">Email: 109308073+bylickilabs@users.noreply.github.com</font><br />
 
 ```
