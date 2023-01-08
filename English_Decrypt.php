@@ -135,5 +135,7 @@ $content .= '
 <font color="#008CFF">https://t.me/Bylickilabs</font><br />
 <details></li></ul>
 <details>
+<summary>Contact, Languages, DevTools & More</summary>
+<ul><li>
 
 ```
